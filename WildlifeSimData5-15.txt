@@ -1,0 +1,63 @@
+-- Timestamp: 309.56
+
+"location": [34.80941,-148.4664]
+"oxygen_saturation": 0.98, "heart_rate": 60
+
+-- Timestamp: 310.58
+
+"location": [35.79464,-148.7161]
+"oxygen_saturation": 0.98, "heart_rate": 60
+
+-- Timestamp: 311.59
+
+"location": [36.7799,-148.9658]
+"oxygen_saturation": 0.98, "heart_rate": 60
+"air_quality": 30.00602
+
+-- Timestamp: 312.61
+
+"location": [37.76521,-149.2155]
+"oxygen_saturation": 0.98, "heart_rate": 60
+"air_quality": 30.00595
+
+-- Timestamp: 313.63
+
+"location": [38.75044,-149.4652]
+"oxygen_saturation": 0.98, "heart_rate": 60
+"air_quality": 30.00587
+
+-- Timestamp: 314.64
+
+"location": [39.61939,-149.6741]
+"oxygen_saturation": 0.98, "heart_rate": 60
+"air_quality": 30.0058
+
+-- Timestamp: 315.66
+
+"location": [40.60463,-149.9238]
+"oxygen_saturation": 0.98, "heart_rate": 60
+"air_quality": 30.00572
+
+-- Timestamp: 316.68
+
+"location": [41.58991,-150.1736]
+"oxygen_saturation": 0.98, "heart_rate": 60
+"air_quality": 30.00565
+
+-- Timestamp: 317.69
+
+"location": [42.57514,-150.4234]
+"oxygen_saturation": 0.98, "heart_rate": 60
+"air_quality": 30.00558
+
+
+
+
+
+
+
+
+
+
+
+

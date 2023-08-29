@@ -1,0 +1,562 @@
+=============== Zebra:43a47d LOG ===============
+
+-- Timestamp: 100.20
+
+"location": [-113.3006,367.2784]
+
+-- Timestamp: 101.21
+
+"location": [-113.0632,366.2901]
+"oxygen_saturation": 0.98, "heart_rate": 60
+
+-- Timestamp: 102.23
+
+"location": [-112.8258,365.3018]
+"oxygen_saturation": 0.98, "heart_rate": 60
+
+-- Timestamp: 103.26
+
+"location": [-112.5844,364.2973]
+"oxygen_saturation": 0.98, "heart_rate": 60
+"air_quality": 29.0991
+
+-- Timestamp: 104.28
+
+"location": [-112.347,363.309]
+"oxygen_saturation": 0.98, "heart_rate": 60
+"air_quality": 29.09907
+
+-- Timestamp: 105.31
+
+"location": [-112.1057,362.3044]
+"oxygen_saturation": 0.98, "heart_rate": 60
+"air_quality": 29.09904
+
+-- Timestamp: 106.33
+
+"location": [-111.8683,361.3162]
+"oxygen_saturation": 0.98, "heart_rate": 60
+"air_quality": 29.099
+
+-- Timestamp: 107.36
+
+"location": [-111.627,360.3117]
+"oxygen_saturation": 0.98, "heart_rate": 60
+"air_quality": 29.09897
+
+-- Timestamp: 108.39
+
+"location": [-111.3857,359.3072]
+"oxygen_saturation": 0.98, "heart_rate": 60
+"air_quality": 29.09894
+
+-- Timestamp: 109.41
+
+"location": [-111.1483,358.3189]
+"oxygen_saturation": 0.98, "heart_rate": 60
+"air_quality": 29.0989
+
+-- Timestamp: 110.43
+
+"location": [-110.9108,357.3305]
+"oxygen_saturation": 0.98, "heart_rate": 60
+"air_quality": 29.09887
+
+-- Timestamp: 111.44
+
+"location": [-110.6734,356.3423]
+"oxygen_saturation": 0.98, "heart_rate": 60
+"air_quality": 29.09884
+
+-- Timestamp: 112.48
+
+"location": [-110.4321,355.3378]
+"oxygen_saturation": 0.98, "heart_rate": 60
+"air_quality": 29.09881
+
+-- Timestamp: 113.51
+
+"location": [-110.1908,354.3332]
+"oxygen_saturation": 0.98, "heart_rate": 60
+"air_quality": 29.09878
+
+-- Timestamp: 114.53
+
+"location": [-109.9534,353.345]
+"oxygen_saturation": 0.98, "heart_rate": 60
+"air_quality": 29.09874
+
+-- Timestamp: 115.56
+
+"location": [-109.7121,352.3405]
+"oxygen_saturation": 0.98, "heart_rate": 60
+"air_quality": 29.09871
+
+-- Timestamp: 116.58
+
+"location": [-109.4746,351.3521]
+"oxygen_saturation": 0.98, "heart_rate": 60
+"air_quality": 29.09868
+
+-- Timestamp: 117.59
+
+"location": [-109.2372,350.3639]
+"oxygen_saturation": 0.98, "heart_rate": 60
+"air_quality": 29.09865
+
+-- Timestamp: 118.62
+
+"location": [-108.9959,349.3594]
+"oxygen_saturation": 0.98, "heart_rate": 60
+"air_quality": 29.09862
+
+-- Timestamp: 119.64
+
+"location": [-108.7585,348.3711]
+"oxygen_saturation": 0.98, "heart_rate": 60
+"air_quality": 29.09858
+
+-- Timestamp: 120.67
+
+"location": [-108.5172,347.3665]
+"oxygen_saturation": 0.98, "heart_rate": 60
+"air_quality": 29.09855
+
+-- Timestamp: 121.71
+
+"location": [-108.2759,346.3621]
+"oxygen_saturation": 0.98, "heart_rate": 60
+"air_quality": 29.09852
+
+-- Timestamp: 122.74
+
+"location": [-108.0346,345.3575]
+"oxygen_saturation": 0.98, "heart_rate": 60
+"air_quality": 29.09848
+
+-- Timestamp: 123.76
+
+"location": [-107.7972,344.3693]
+"oxygen_saturation": 0.98, "heart_rate": 60
+"air_quality": 29.09845
+
+-- Timestamp: 124.79
+
+"location": [-107.5558,343.3647]
+"oxygen_saturation": 0.98, "heart_rate": 60
+"air_quality": 29.09842
+
+-- Timestamp: 125.81
+
+"location": [-107.3184,342.3764]
+"oxygen_saturation": 0.98, "heart_rate": 60
+"air_quality": 29.09839
+
+-- Timestamp: 126.84
+
+"location": [-107.0771,341.3719]
+"oxygen_saturation": 0.98, "heart_rate": 60
+"air_quality": 29.09836
+
+-- Timestamp: 127.87
+
+"location": [-106.8358,340.3675]
+"oxygen_saturation": 0.98, "heart_rate": 60
+"air_quality": 29.09832
+
+-- Timestamp: 128.89
+
+"location": [-106.5984,339.3792]
+"oxygen_saturation": 0.98, "heart_rate": 60
+"air_quality": 29.09829
+
+-- Timestamp: 129.91
+
+"location": [-106.361,338.3908]
+"oxygen_saturation": 0.98, "heart_rate": 60
+"air_quality": 29.09826
+
+-- Timestamp: 130.92
+
+"location": [-106.1236,337.4026]
+"oxygen_saturation": 0.98, "heart_rate": 60
+"air_quality": 29.09823
+
+-- Timestamp: 131.97
+
+"location": [-105.8784,336.3819]
+"oxygen_saturation": 0.98, "heart_rate": 60
+"air_quality": 29.0982
+
+-- Timestamp: 133.00
+
+"location": [-105.637,335.3773]
+"oxygen_saturation": 0.98, "heart_rate": 60
+"air_quality": 29.09816
+
+-- Timestamp: 134.04
+
+"location": [-105.3957,334.3728]
+"oxygen_saturation": 0.98, "heart_rate": 60
+"air_quality": 29.09813
+
+-- Timestamp: 135.05
+
+"location": [-105.1583,333.3846]
+"oxygen_saturation": 0.98, "heart_rate": 60
+"air_quality": 29.0981
+
+-- Timestamp: 136.07
+
+"location": [-104.9209,332.3962]
+"oxygen_saturation": 0.98, "heart_rate": 60
+"air_quality": 29.09806
+
+-- Timestamp: 137.10
+
+"location": [-104.6796,331.3918]
+"oxygen_saturation": 0.98, "heart_rate": 60
+"air_quality": 29.09803
+
+-- Timestamp: 138.14
+
+"location": [-104.4383,330.3872]
+"oxygen_saturation": 0.98, "heart_rate": 60
+"air_quality": 29.098
+
+-- Timestamp: 139.15
+
+"location": [-104.2009,329.3989]
+"oxygen_saturation": 0.98, "heart_rate": 60
+"air_quality": 29.09797
+
+-- Timestamp: 140.19
+
+"location": [-103.9596,328.3944]
+"oxygen_saturation": 0.98, "heart_rate": 60
+"air_quality": 29.09794
+
+-- Timestamp: 141.20
+
+"location": [-103.7221,327.4061]
+"oxygen_saturation": 0.98, "heart_rate": 60
+"air_quality": 29.0979
+
+-- Timestamp: 142.22
+
+"location": [-103.4847,326.4178]
+"oxygen_saturation": 0.98, "heart_rate": 60
+"air_quality": 29.09787
+
+-- Timestamp: 143.24
+
+"location": [-103.2473,325.4295]
+"oxygen_saturation": 0.98, "heart_rate": 60
+"air_quality": 29.09784
+
+-- Timestamp: 144.27
+
+"location": [-103.006,324.425]
+"oxygen_saturation": 0.98, "heart_rate": 60
+"air_quality": 29.09781
+
+-- Timestamp: 145.28
+
+"location": [-102.7686,323.4367]
+"oxygen_saturation": 0.98, "heart_rate": 60
+"air_quality": 29.09778
+
+-- Timestamp: 146.30
+
+"location": [-102.5312,322.4484]
+"oxygen_saturation": 0.98, "heart_rate": 60
+"air_quality": 29.09774
+
+-- Timestamp: 147.32
+
+"location": [-102.2937,321.4601]
+"oxygen_saturation": 0.98, "heart_rate": 60
+"air_quality": 29.09771
+
+-- Timestamp: 148.35
+
+"location": [-102.0524,320.4556]
+"oxygen_saturation": 0.98, "heart_rate": 60
+"air_quality": 29.09768
+
+-- Timestamp: 149.38
+
+"location": [-101.8111,319.4511]
+"oxygen_saturation": 0.98, "heart_rate": 60
+"air_quality": 29.09765
+
+-- Timestamp: 150.40
+
+"location": [-101.5737,318.4628]
+"oxygen_saturation": 0.98, "heart_rate": 60
+"air_quality": 29.09762
+
+-- Timestamp: 151.43
+
+"location": [-101.3324,317.4583]
+"oxygen_saturation": 0.98, "heart_rate": 60
+"air_quality": 29.09758
+
+-- Timestamp: 152.47
+
+"location": [-101.0911,316.4538]
+"oxygen_saturation": 0.98, "heart_rate": 60
+"air_quality": 29.09755
+
+-- Timestamp: 153.50
+
+"location": [-100.8575,315.4817]
+"oxygen_saturation": 0.99, "heart_rate": 40
+"air_quality": 29.09752
+
+-- Timestamp: 154.52
+
+"location": [-100.8575,315.4817]
+"oxygen_saturation": 0.99, "heart_rate": 40
+"air_quality": 29.09749
+
+-- Timestamp: 155.55
+
+"location": [-100.8575,315.4817]
+"oxygen_saturation": 0.99, "heart_rate": 40
+"air_quality": 29.09745
+
+-- Timestamp: 156.57
+
+"location": [-100.8575,315.4817]
+"oxygen_saturation": 0.99, "heart_rate": 40
+"air_quality": 29.09742
+
+-- Timestamp: 157.58
+
+"location": [-100.8575,315.4817]
+"oxygen_saturation": 0.99, "heart_rate": 40
+"air_quality": 29.09739
+
+-- Timestamp: 158.60
+
+"location": [-102.6164,310.3771]
+"oxygen_saturation": 0.96, "heart_rate": 200
+"air_quality": 29.09736
+
+-- Timestamp: 159.63
+
+"location": [-104.6355,304.5171]
+"oxygen_saturation": 0.96, "heart_rate": 200
+"air_quality": 29.09733
+
+-- Timestamp: 160.65
+
+"location": [-106.6221,298.7513]
+"oxygen_saturation": 0.96, "heart_rate": 200
+"air_quality": 29.0973
+
+-- Timestamp: 161.68
+
+"location": [-108.6413,292.891]
+"oxygen_saturation": 0.96, "heart_rate": 200
+"air_quality": 29.09726
+
+-- Timestamp: 162.70
+
+"location": [-110.6281,287.125]
+"oxygen_saturation": 0.96, "heart_rate": 200
+"air_quality": 29.09723
+
+-- Timestamp: 163.71
+
+"location": [-112.6147,281.3592]
+"oxygen_saturation": 0.96, "heart_rate": 200
+"air_quality": 29.0972
+
+-- Timestamp: 164.73
+
+"location": [-114.6014,275.5933]
+"oxygen_saturation": 0.96, "heart_rate": 200
+"air_quality": 29.09717
+
+-- Timestamp: 165.76
+
+"location": [-116.6206,269.733]
+"oxygen_saturation": 0.96, "heart_rate": 200
+"air_quality": 29.09714
+
+-- Timestamp: 166.78
+
+"location": [-118.6072,263.9673]
+"oxygen_saturation": 0.96, "heart_rate": 200
+"air_quality": 29.0971
+
+-- Timestamp: 167.81
+
+"location": [-120.6265,258.1068]
+"oxygen_saturation": 0.96, "heart_rate": 200
+"air_quality": 29.09707
+
+-- Timestamp: 168.83
+
+"location": [-122.6133,252.3407]
+"oxygen_saturation": 0.96, "heart_rate": 200
+"air_quality": 29.09704
+
+-- Timestamp: 169.85
+
+"location": [-124.6,246.5748]
+"oxygen_saturation": 0.96, "heart_rate": 200
+"air_quality": 29.09701
+
+-- Timestamp: 170.86
+
+"location": [-126.5866,240.8091]
+"oxygen_saturation": 0.96, "heart_rate": 200
+"air_quality": 29.09698
+
+-- Timestamp: 171.89
+
+"location": [-128.6058,234.9488]
+"oxygen_saturation": 0.96, "heart_rate": 200
+"air_quality": 29.09694
+
+-- Timestamp: 172.91
+
+"location": [-130.5924,229.1831]
+"oxygen_saturation": 0.96, "heart_rate": 200
+"air_quality": 29.09691
+
+-- Timestamp: 173.94
+
+"location": [-132.6116,223.3228]
+"oxygen_saturation": 0.96, "heart_rate": 200
+"air_quality": 29.09688
+
+-- Timestamp: 174.98
+
+"location": [-134.6309,217.4624]
+"oxygen_saturation": 0.96, "heart_rate": 200
+"air_quality": 29.09685
+
+-- Timestamp: 176.01
+
+"location": [-136.6502,211.6016]
+"oxygen_saturation": 0.96, "heart_rate": 200
+"air_quality": 29.09682
+
+-- Timestamp: 177.04
+
+"location": [-138.6694,205.7415]
+"oxygen_saturation": 0.96, "heart_rate": 200
+"air_quality": 29.09678
+
+-- Timestamp: 178.06
+
+"location": [-140.6561,199.9756]
+"oxygen_saturation": 0.96, "heart_rate": 200
+"air_quality": 29.09675
+
+-- Timestamp: 179.09
+
+"location": [-142.6752,194.1154]
+"oxygen_saturation": 0.96, "heart_rate": 200
+"air_quality": 29.09672
+
+-- Timestamp: 180.13
+
+"location": [-144.6945,188.255]
+"oxygen_saturation": 0.96, "heart_rate": 200
+"air_quality": 29.09669
+
+-- Timestamp: 181.16
+
+"location": [-146.7137,182.3946]
+"oxygen_saturation": 0.96, "heart_rate": 200
+"air_quality": 29.09666
+
+-- Timestamp: 182.19
+
+"location": [-148.733,176.5343]
+"oxygen_saturation": 0.96, "heart_rate": 200
+"air_quality": 29.09662
+
+-- Timestamp: 183.24
+
+"location": [-150.7848,170.5794]
+"oxygen_saturation": 0.96, "heart_rate": 200
+"air_quality": 29.09659
+
+-- Timestamp: 184.28
+
+"location": [-152.804,164.719]
+"oxygen_saturation": 0.96, "heart_rate": 200
+"air_quality": 29.09656
+
+-- Timestamp: 185.31
+
+"location": [-154.8232,158.8586]
+"oxygen_saturation": 0.96, "heart_rate": 200
+"air_quality": 29.09653
+
+-- Timestamp: 186.34
+
+"location": [-156.8425,152.9983]
+"oxygen_saturation": 0.96, "heart_rate": 200
+"air_quality": 29.09649
+
+-- Timestamp: 187.36
+
+"location": [-158.8292,147.2322]
+"oxygen_saturation": 0.96, "heart_rate": 200
+"air_quality": 29.09646
+
+-- Timestamp: 188.39
+
+"location": [-160.8484,141.3719]
+"oxygen_saturation": 0.96, "heart_rate": 200
+"air_quality": 29.09643
+
+-- Timestamp: 189.42
+
+"location": [-162.8676,135.5117]
+"oxygen_saturation": 0.96, "heart_rate": 200
+"air_quality": 29.0964
+
+-- Timestamp: 190.46
+
+"location": [-164.8869,129.6512]
+"oxygen_saturation": 0.96, "heart_rate": 200
+"air_quality": 29.09636
+
+-- Timestamp: 191.49
+
+"location": [-166.9062,123.7907]
+"oxygen_saturation": 0.96, "heart_rate": 200
+"air_quality": 29.09633
+
+-- Timestamp: 192.51
+
+"location": [-168.8928,118.025]
+"oxygen_saturation": 0.96, "heart_rate": 200
+"air_quality": 29.0963
+
+-- Timestamp: 193.54
+
+"location": [-170.912,112.1647]
+"oxygen_saturation": 0.96, "heart_rate": 200
+"air_quality": 29.09627
+
+-- Timestamp: 194.57
+
+"location": [-172.9312,106.3045]
+"oxygen_saturation": 0.96, "heart_rate": 200
+"air_quality": 29.09624
+
+-- Timestamp: 195.59
+
+"location": [-174.9179,100.5385]
+"oxygen_saturation": 0.96, "heart_rate": 200
+"air_quality": 29.0962
+

@@ -1,0 +1,201 @@
+=============== Zebra:407f6f LOG ===============
+
+-- Timestamp: 7764.95
+
+"location": [-14.64234,2.092136]
+
+-- Timestamp: 7765.96
+
+"location": [-15.60745,1.773461]
+
+-- Timestamp: 7766.98
+
+"location": [-16.57263,1.454762]
+"oxygen_saturation": 0.98, "heart_rate": 60
+
+-- Timestamp: 7768.00
+
+"location": [-17.53781,1.136066]
+"oxygen_saturation": 0.98, "heart_rate": 60
+
+-- Timestamp: 7769.03
+
+"location": [-18.51879,0.8121516]
+"oxygen_saturation": 0.98, "heart_rate": 60
+
+-- Timestamp: 7770.04
+
+"location": [-19.48397,0.4934524]
+"oxygen_saturation": 0.98, "heart_rate": 60
+
+-- Timestamp: 7771.06
+
+"location": [-20.44911,0.1747672]
+"oxygen_saturation": 0.98, "heart_rate": 60
+
+-- Timestamp: 7772.08
+
+"location": [-21.41424,-0.143916]
+"oxygen_saturation": 0.98, "heart_rate": 60
+
+-- Timestamp: 7773.13
+
+"location": [-22.41105,-0.4730575]
+"oxygen_saturation": 0.98, "heart_rate": 60
+
+-- Timestamp: 7774.16
+
+"location": [-23.39205,-0.7969789]
+"oxygen_saturation": 0.98, "heart_rate": 60
+
+-- Timestamp: 7775.18
+
+"location": [-24.35724,-1.115681]
+"oxygen_saturation": 0.98, "heart_rate": 60
+
+-- Timestamp: 7776.19
+
+"location": [-25.32241,-1.434375]
+"oxygen_saturation": 0.98, "heart_rate": 60
+
+-- Timestamp: 7777.21
+
+"location": [-26.28754,-1.753057]
+"oxygen_saturation": 0.98, "heart_rate": 60
+
+-- Timestamp: 7778.23
+
+"location": [-27.25269,-2.071743]
+"oxygen_saturation": 0.98, "heart_rate": 60
+
+-- Timestamp: 7779.26
+
+"location": [-28.23368,-2.395664]
+"oxygen_saturation": 0.98, "heart_rate": 60
+
+-- Timestamp: 7780.31
+
+"location": [-29.23048,-2.724802]
+"oxygen_saturation": 0.98, "heart_rate": 60
+
+-- Timestamp: 7781.36
+
+"location": [-30.22731,-3.053952]
+"oxygen_saturation": 0.98, "heart_rate": 60
+
+-- Timestamp: 7782.41
+
+"location": [-31.22409,-3.383083]
+"oxygen_saturation": 0.98, "heart_rate": 60
+
+-- Timestamp: 7783.42
+
+"location": [-32.18928,-3.701785]
+"oxygen_saturation": 0.98, "heart_rate": 60
+
+-- Timestamp: 7784.47
+
+"location": [-33.1861,-4.030929]
+"oxygen_saturation": 0.98, "heart_rate": 60
+
+-- Timestamp: 7785.51
+
+"location": [-34.16706,-4.354838]
+"oxygen_saturation": 0.98, "heart_rate": 60
+
+-- Timestamp: 7786.54
+
+"location": [-35.1481,-4.678773]
+"oxygen_saturation": 0.98, "heart_rate": 60
+
+-- Timestamp: 7787.61
+
+"location": [-36.1607,-5.01313]
+"oxygen_saturation": 0.98, "heart_rate": 60
+
+-- Timestamp: 7788.66
+
+"location": [-37.15747,-5.34226]
+"oxygen_saturation": 0.98, "heart_rate": 60
+
+-- Timestamp: 7789.69
+
+"location": [-38.13847,-5.666179]
+"oxygen_saturation": 0.98, "heart_rate": 60
+
+-- Timestamp: 7790.72
+
+"location": [-39.11947,-5.990101]
+"oxygen_saturation": 0.98, "heart_rate": 60
+
+-- Timestamp: 7791.74
+
+"location": [-40.08462,-6.308789]
+"oxygen_saturation": 0.98, "heart_rate": 60
+
+-- Timestamp: 7792.77
+
+"location": [-41.06558,-6.632699]
+"oxygen_saturation": 0.98, "heart_rate": 60
+"air_quality": 29.0012
+
+-- Timestamp: 7793.79
+
+"location": [-42.03079,-6.951406]
+"oxygen_saturation": 0.98, "heart_rate": 60
+"air_quality": 29.00119
+
+-- Timestamp: 7794.84
+
+"location": [-43.02755,-7.280533]
+"oxygen_saturation": 0.98, "heart_rate": 60
+"air_quality": 29.00119
+
+-- Timestamp: 7795.85
+
+"location": [-43.99274,-7.599233]
+"oxygen_saturation": 0.98, "heart_rate": 60
+"air_quality": 29.00118
+
+-- Timestamp: 7796.87
+
+"location": [-44.95792,-7.917933]
+"oxygen_saturation": 0.98, "heart_rate": 60
+"air_quality": 29.00118
+
+-- Timestamp: 7797.92
+
+"location": [-45.95473,-8.247073]
+"oxygen_saturation": 0.98, "heart_rate": 60
+"air_quality": 29.00118
+
+-- Timestamp: 7798.97
+
+"location": [-46.95154,-8.576217]
+"oxygen_saturation": 0.98, "heart_rate": 60
+"air_quality": 29.00117
+
+-- Timestamp: 7799.99
+
+"location": [-47.91668,-8.894903]
+"oxygen_saturation": 0.98, "heart_rate": 60
+"air_quality": 29.00117
+
+-- Timestamp: 7801.00
+
+"location": [-48.88186,-9.213597]
+"oxygen_saturation": 0.98, "heart_rate": 60
+"air_quality": 29.00117
+
+-- Timestamp: 7802.02
+
+"location": [-49.84702,-9.53229]
+"oxygen_saturation": 0.98, "heart_rate": 60
+"air_quality": 29.00116
+
+-- Timestamp: 7803.04
+
+"location": [-50.81215,-9.850971]
+"oxygen_saturation": 0.98, "heart_rate": 60
+"air_quality": 29.00116
+
